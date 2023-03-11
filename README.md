@@ -61,7 +61,7 @@
         <img src="C:\Users\91897\Downloads\s9.jfif" alt="s9">
     </div>
     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-        <img src="C:\Users\91897\Downloads\s10.jfif" alt="s10">
+        <img src="https://github.com/vamsikalla/vamsikalla.github.io/blob/main/s10.jfif" alt="s10">
     </div>
     <div class="col-12 col-sm-6 col-md-4 col-lg-3">
         <img src="C:\Users\91897\Downloads\s11.jfif" alt="s11">
