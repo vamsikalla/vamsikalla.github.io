@@ -27,7 +27,7 @@
             <td>Hyderabad</td>
             <td>Telangana</td>
         </tr>
-        <caption>Citie Of INDIA</caption>
+        <caption>Cities Of INDIA</caption>
       </table>
     </center>
 </body>
