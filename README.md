@@ -125,6 +125,10 @@
         </div>
     </div>
     <br>
+    <h2>Projects</h2>
+    <ol>
+        <link rel="stylesheet" href="wordle_game/wordlw_game.html">
+    </ol>
     <h2>Skills</h2>
     <br>
     <button type="button" class="btn btn-primary">
