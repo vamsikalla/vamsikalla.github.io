@@ -125,10 +125,23 @@
         </div>
     </div>
     <br>
-    <h2>Front-END Projects</h2>
-    <ol>
-        <li><a href="wordle_game/wordle_game.html">WORDLE_GAME</a></li>
-    </ol>
+    <h2>FRONT-END Projects </h2>
+    <br>
+    <div>
+        <div class="row photo-album">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <table border="1">
+                    <tr><th><a href="wordle_game/wordle_game.html">wordle_game</a></th></tr>
+                </table>
+            </div>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <table border="1">
+                <tr><th><a href="tic-tac-toe/tic-tac-toe.html"></a></th></tr>
+                 </table>
+            </div>
+        </div>
+    </div>
+    <br>
     <h2>Skills</h2>
     <br>
     <button type="button" class="btn btn-primary">
