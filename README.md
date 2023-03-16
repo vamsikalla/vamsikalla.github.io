@@ -125,6 +125,7 @@
         </div>
     </div>
     <br>
+    <center>
     <h2>FRONT-END Projects </h2>
     <br>
     <div>
@@ -138,6 +139,7 @@
         </div>
     </div>
     <br>
+    </center>
     <h2>Skills</h2>
     <br>
     <button type="button" class="btn btn-primary">
