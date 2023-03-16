@@ -125,9 +125,9 @@
         </div>
     </div>
     <br>
-    <h2>Projects</h2>
+    <h2>Front-END Projects</h2>
     <ol>
-        <link rel="stylesheet" href="wordle_game/wordlw_game.html">
+        <li><link rel="stylesheet" href="wordle_game/wordlw_game.html">WORDLE</li>
     </ol>
     <h2>Skills</h2>
     <br>
