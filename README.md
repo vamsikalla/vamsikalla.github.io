@@ -119,7 +119,7 @@
                 <tr><td>Created an algorithm which takes the date and movie
                     name from users and books ticket.
                     </td></tr>
-                <tr></tr>
+                <tr><td>11/2020 - 02/2021</td></tr>
                 </table>
             </div>
         </div>
@@ -191,6 +191,7 @@
         </ul>
        </div> 
     </button>
+    <br><br><br><br><br><br><br>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 </body>
 </center>
