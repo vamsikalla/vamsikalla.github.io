@@ -127,7 +127,7 @@
     <br>
     <h2>Front-END Projects</h2>
     <ol>
-        <li><link rel="stylesheet" href="wordle_game/wordlw_game.html">WORDLE</li>
+        <li><a href="wordle_game/wordle_game.html">WORDLE</a></li>
     </ol>
     <h2>Skills</h2>
     <br>
