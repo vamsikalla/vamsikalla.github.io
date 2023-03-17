@@ -139,7 +139,7 @@
             </div>
             
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="photo_gallery.html" target="_blank">Photo_Gallery</a>             
+                    <a href="photo_gallary.html" target="_blank">Photo_Gallary</a>             
             </div>
         </div>
     </div>
