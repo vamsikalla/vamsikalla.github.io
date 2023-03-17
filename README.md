@@ -133,13 +133,13 @@
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <a href="wordle_game/wordle_game.html" target="_blank">wordle_game</a>             
             </div>
+            
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                     <a href="tic-tac-toe/tic-tac-toe.html" target="_blank">tic-tac-toe</a>
             </div>
-        </div>
-         </div>
+            
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="photo_gallery.html" target="_blank">Photo_Gallery</a>
+                    <a href="photo_gallery.html" target="_blank">Photo_Gallery</a>             
             </div>
         </div>
     </div>
